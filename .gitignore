@@ -4,6 +4,8 @@ gen
 
 #Eclipse
 .settings
+.classpath
+.project
 
 #IntelliJ IDEA
 .idea
